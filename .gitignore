@@ -1,5 +1,7 @@
 *.o
 *.vcd
 *.cf
+*.hi
 main
 proto
+/vhdl/
